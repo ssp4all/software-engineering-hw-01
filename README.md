@@ -10,6 +10,6 @@
 ## Group:
 - [Suraj Pawar](mailto:spawar2@ncsu.edu) 
 - [Ankit Tiwari](mailto:atiwari4@ncsu.edu)
-- [Vineet Makhariya](mailto:---@ncsu.edu)
+- [Vineet Makharia](mailto:vrmakhar@ncsu.edu)
 - [Jay Jagtap](mailto:jjgtap@ncsu.edu) 
 - [Amit Ghetiya](mailto:agheti@ncsu.edu)
