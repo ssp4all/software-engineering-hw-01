@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
+*$py.class
 
 pip-log.txt
 pip-delete-this-directory.txt
@@ -24,4 +25,11 @@ node_modules/
 jspm_packages/
 
 .vscode-test
+
+
+
+
+
+
+
 
