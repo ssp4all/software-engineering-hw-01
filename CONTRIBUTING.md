@@ -37,5 +37,5 @@ This section guides you to submit a suggestion including new features or improve
 * All JavaScript files must comply with [JavaScript Standard Style](https://standardjs.com/)
 * Use emojis in commit messages to make it easy to determine the type of commit message
 
-### Code of Conduct
+## Code of Conduct
 We believe in including everyone and working together and hence, we expect everyone participating to follow [Group-12 Code of Conduct](CODE_OF_CONDUCT.md). Please Report unacceptable behavior to [spawar2@ncsu.edu](mailto:spawar2@ncsu.edu).
