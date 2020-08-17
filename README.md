@@ -11,4 +11,4 @@
 - [Ankit Tiwari](mailto:atiwari4@ncsu.edu)
 - [Vineet Makharia](mailto:vrmakhar@ncsu.edu)
 - [Jay Jagtap](mailto:jjgtap@ncsu.edu) 
-- [Amit Ghetiya](mailto:agheti@ncsu.edu)
+- [Amit Ghetiya](mailto:aghetiy@ncsu.edu)
