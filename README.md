@@ -2,7 +2,6 @@
 # CSC-510 Software Engineering-Group 12 (HW1)
 
 [![Build Status](https://travis-ci.com/ssp4all/software-engineering-hw-01.svg?branch=master)](https://travis-ci.com/ssp4all/software-engineering-hw-01)
-
 [![DOI](https://zenodo.org/badge/286804698.svg)](https://zenodo.org/badge/latestdoi/286804698)
 
 
