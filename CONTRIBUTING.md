@@ -25,13 +25,13 @@ The purpose of this section is to guide you to let you submit a good bug report.
 * Push the changes on your branch and create a pull request and provide link to the issue or describe the feature you suggest.
 
 
-### 3. Suggesting changes
+### 4. Suggesting changes
 This section guides you to submit a suggestion including new features or improvements to existing functionality
 
 * Describe the current working of the project and explain what you expected as an output and the reason behind that.
 * Provide examples of existing tools where the suggested feature exists.
 
-### 4. Styling guides
+### 5. Styling guides
 
 * Use proper commit messages that are descriptive of changes made.
 * All JavaScript files must comply with [JavaScript Standard Style](https://standardjs.com/)
